@@ -1,0 +1,36 @@
+05.12.2012 - Intercepter-NG [Console Edition] 0.5
+ + bug fixes
+ + changes for Intercepter-NG [Android Edition]
+
+
+18.09.2012 - Intercepter-NG [Console Edition] 0.4
+
+ + manual control of arp poison
+ + MRA MD5 Auth
+ + HTTP Auth Heur
+ + bug fixes and updates
+
+
+06.08.2012 - Intercepter-NG [Console Edition] 0.3
+
+ + raw mode
+ + raw mode's buffer control via keys "1" and "2" (in scan mode)
+ + scan timeout control via <-- --> arrows (in scan mode)
+ + smart scan on\off
+ + root privs checking
+ + bug fixes
+
+
+18.06.2012 - Intercepter-NG [Console Edition] 0.2
+
+ + new passwords dissectors 
+ + grabbing messages ICQ\AIM\JABBER\YAHOO\MSN\IRC\MRA
+ + recovering files from SMB
+ + resizing support 
+ + locale support via env variable LC_ALL
+ + arp code improved
+ + MacOS X build
+
+
+
+01.06.2012 - Intercepter-NG [Console Edition] 0.1
